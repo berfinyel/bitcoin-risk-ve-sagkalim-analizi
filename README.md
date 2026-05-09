@@ -26,4 +26,4 @@ Model, zirvelerin ömrünü belirlemek için şu hipotezleri test etmektedir:
 5.  **Dış Etkenler:** Hafta sonu sığ piyasa koşulları ve Halving (Arz kesintisi) döngülerinin zirve ömürlerine etkisi.
 
 ---
-*Projenin sonuçları; bu çalışma üzerinde veri modelleme ve analiz süreçleri aktif olarak devam etmektedir.*
+*Bu çalışma üzerinde veri modelleme ve analiz süreçleri aktif olarak devam etmektedir.*
